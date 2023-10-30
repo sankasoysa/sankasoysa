@@ -8,7 +8,7 @@
   - [Profile-Card-Component](https://github.com/sankasoysa/profile-card-component)
   - [Product-Preview-Card](https://github.com/sankasoysa/product-preview-card)
   - [Testimonials-Grid](https://github.com/sankasoysa/testimonials-grid)
-  - [Testimonials-Grid](https://github.com/sankasoysa/testimonials-grid)
+ 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://sankasoysa.com)
 - <b>Wordpress</b>
