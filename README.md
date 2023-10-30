@@ -12,7 +12,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://sankasoysa.com)
 - <b>Wordpress</b>
-  - [palanchi.lk](https://palanchi.lk)
+  - [Palanchi.lk](https://palanchi.lk)
 
 <h2> 🤳 Connect with me:</h2>
 
