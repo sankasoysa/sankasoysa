@@ -4,7 +4,7 @@
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://sankasoysa.com)
-<bFront-end Development</b>
+- <b>Front-end Development</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://sankasoysa.com)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://sankasoysa.com)
