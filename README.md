@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sanka! <br/><a href="https://www.linkedin.com/in/sankasoysa/">IT Professional</a>
 
-<h2>👨‍💻 My Cyber Security Projects:</h2>
+<h2>👨‍💻 My IT Projects:</h2>
 
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://sankasoysa.com)
