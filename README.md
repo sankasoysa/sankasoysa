@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sanka! <br/><a href="https://www.linkedin.com/in/sankasoysa/">IT Professional</a></h1>
+<h1>Hi, I'm Sanka! <br/> <a href="https://www.linkedin.com/in/sankasoysa/">IT Professional</a></h1>
 
 <h2>👨‍💻 My IT Projects:</h2>
 
