@@ -10,7 +10,7 @@
   - [Testimonials-Grid](https://github.com/sankasoysa/testimonials-grid)
  
 - <b>Python</b>
-  - [Creating Bulk RDP Connections](https://sankasoysa.com)
+  - [Creating Bulk RDP Connections](https://sankasoysa.com](https://github.com/sankasoysa/RDP_Connection_Creator.git)
 - <b>Wordpress</b>
   - [Palanchi.lk](https://palanchi.lk)
 
