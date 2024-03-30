@@ -10,7 +10,7 @@
   - [Testimonials-Grid](https://github.com/sankasoysa/testimonials-grid)
  
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://sankasoysa.com)
+  - [Creating Bulk RDP Connections](https://sankasoysa.com)
 - <b>Wordpress</b>
   - [Palanchi.lk](https://palanchi.lk)
 
